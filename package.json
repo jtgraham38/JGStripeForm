@@ -14,7 +14,8 @@
     "stripe",
     "payment",
     "pay",
-    "subscription"
+    "subscription",
+    "form"
   ],
   "author": "Jacob Graham",
   "license": "MIT",
