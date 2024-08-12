@@ -1,0 +1,25 @@
+{
+  "name": "jg_stripe_form",
+  "version": "1.0.0",
+  "description": "A utility script that makes it easy to build stripe forms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtgraham38/JGStripeForm.git"
+  },
+  "keywords": [
+    "stripe",
+    "payment",
+    "pay",
+    "subscription"
+  ],
+  "author": "Jacob Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtgraham38/JGStripeForm/issues"
+  },
+  "homepage": "https://github.com/jtgraham38/JGStripeForm#readme"
+}

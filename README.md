@@ -1,4 +1,4 @@
-#JG Stripe Forms
+# JG Stripe Forms
 This script automates the process of creating Stripe card payment inputs on you payment forms, allowing you to quickly build payment forms.  To begin, include Stripe's script as defined below, and define your Stripe public key on the window's *jg_stripe_public_key* field:
 
 ```html
