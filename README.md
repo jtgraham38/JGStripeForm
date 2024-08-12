@@ -25,4 +25,3 @@ jg_stripe_charge_input.js will use this value to create the payment field.  Then
 ```
 
 This form will contain the card payment input, and submit the billing details to the server, where the payment can be processed.
-# JGStripeForm
